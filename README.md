@@ -1,5 +1,4 @@
 # PRODIGY_SD_1
-Here's a GitHub-ready **README.md** file for your temperature conversion program:
 
 ```markdown
 # Temperature Conversion Program
